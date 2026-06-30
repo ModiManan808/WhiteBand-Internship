@@ -57,5 +57,3 @@ This folder contains the following files:
 ## Author
 
 **Name:** Modi Manan Kirankumar
-
-**Internship:** Cyber Security Internship
